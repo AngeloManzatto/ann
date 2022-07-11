@@ -1,0 +1,10 @@
+# Ignore everything
+/*
+
+# Files.
+!.gitignore
+!README.md
+!LICENSE
+
+# Folders
+!include/
